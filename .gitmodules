@@ -1,0 +1,4 @@
+[submodule "Vue-JS-Frontend"]
+	path = Vue-JS-Frontend
+	url = https://github.com/bryankasodu/Vue-JS-Frontend
+	branch = main
